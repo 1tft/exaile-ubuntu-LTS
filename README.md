@@ -1,5 +1,5 @@
 # exaile-ubuntu-LTS
-Here you can find Exaile deb package for some Ubuntu LTS versions.
+Here you can find Exaile deb package for some Ubuntu LTS versions (GNOME based).
 
 # Information
 For package creation "make install_no_locale" was used (so only English version available) and dependencies based on docs https://exaile.readthedocs.io/en/stable/user/deps.html
